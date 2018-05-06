@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextFragment">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:textSize="20sp"
+           android:text="January 13, 2009 The Royal Enfield Bullet has the longest production run of any motorcycle in history,
+            having remained continuously in production since 1948, and with roots back to the1932 Bullet which was one of the fastest bikes on the road at the time – the Bullet has just been completely redesigned, and as the Bullet Classic,
+             has all the hallmark design cues of its 75 year heritage, plus electronic fuel injection, a “unit construction” (one-piece), all-alloy engine/gearbox and a range of dress-up kits to turn it into a café racer or classic scrambler.
+              It also makes more power than any previous Bullet, though with its modest 20.3 kW (27.3 bhp) output, it’s still regarded as a learner motorcycle in most countries. Most importantly,
+           it’s cheap as chips, and returns better than 80 mpg.
+           The Royal Enfield and Bullet names derive from the company's links with the Royal Small Arms Factory in Enfield. Royal Enfield was the brand of the Enfield Cycle Company, which produced motorcycles, bicycles, lawnmowers, stationary engines, and rifle parts for the Royal Small Arms Factory in Enfield Lock. This legacy of weapons manufacture is reflected in the logo, a cannon, and the company motto Made like a gun,
+            goes like a bullet.
+             It also enabled the use of the brand name Royal Enfield from 1890 onwards.
+"
+
+           />
+
+   </ScrollView>
+
+</FrameLayout>
